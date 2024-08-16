@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearButtonAdd", "ClearButtonAdd.csproj", "{10413EB4-A257-49F0-890F-99EBC827492F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10413EB4-A257-49F0-890F-99EBC827492F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10413EB4-A257-49F0-890F-99EBC827492F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10413EB4-A257-49F0-890F-99EBC827492F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10413EB4-A257-49F0-890F-99EBC827492F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3730B9-E835-4B4F-BEAC-C3A149D657A2}
+	EndGlobalSection
+EndGlobal
